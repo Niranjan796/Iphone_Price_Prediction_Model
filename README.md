@@ -1,11 +1,11 @@
-# Iphone_Price_Prediction_Model_using_Linear_Regression (Mini-Project)
+# 📱📊 iPhone Price Prediction Model using Linear Regression(Mini-Project)
 * Dataset Size : Rows : 11, Columns : 2
   
 * This is a simple machine learning project that builds a Linear Regression model to predict iPhone prices based on a single feature. The dataset contains only 11 data points with two columns: feature and target price.
 
-📂 Dataset
-Iphone_Prices.csv
-A minimal dataset with:
+📂 Dataset :
+* Iphone_Prices.csv
+* A minimal dataset with:
 
 * feature (version)
 
